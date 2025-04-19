@@ -42,7 +42,7 @@ To run this project locally, follow the steps below:
 
 4. **Live Demo (Optional):**
    You can also access the live version of this project online hosted on **Vercel**:
-   [Live Demo on Vercel](https://yourprojectlink.vercel.app) *(Replace with your actual project link on Vercel)*.
+   [Live Demo on Vercel](https://akan-name-generator-henna.vercel.app/)
 
 ---
 
