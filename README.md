@@ -25,9 +25,7 @@ To run this project locally, follow the steps below:
 
 1. **Clone the repository:**
    First, you’ll need to clone the project’s repository from GitHub to your local machine:
-   ```bash
-   git clone https://github.com/yourusername/akan-name-generator.git
-   ```
+  
 
 2. **Navigate to the project folder:**
    After cloning the project, navigate to the project directory:
