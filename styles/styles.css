@@ -4,11 +4,12 @@
 }
 
 #entry{
-    text-align: center;
     padding: 0;
-    margin: 0;
+    margin: 0 400px;
     padding: 16px;
     background-color: lightblue;
+    width: 600px;
+    height: 350px;
     border-radius: 10px;
     margin-top: 10px;
 
@@ -30,7 +31,7 @@ h1{
 form{
     display: flex;
     flex-direction: column;
-    align-items: center;
+    align-items: start;
 
 }
 label{
@@ -60,4 +61,8 @@ button{
     font-size: 25px;
     font-weight: bold;
     color: red;
+}
+.label{
+    padding: 10px;
+    
 }
