@@ -40,11 +40,7 @@ To run this project locally, follow the steps below:
 
 4. **Live Demo (Optional):**
    You can also access the live version of this project online hosted on **Vercel**:
-<<<<<<< HEAD
-   [Live Demo on Vercel](https://akan-name-generator-henna.vercel.app/)You can also view the live site [here](https://irenemurage.github.io/akan-name-generator/)
-=======
    [Live Demo on Vercel](https://akan-name-generator-henna.vercel.app/) You can also view the live site [here](https://irenemurage.github.io/akan-name-generator/)
->>>>>>> eef449e9d89d49be3365bc8ce6aac468f033aedb
 
 ---
 
