@@ -7,21 +7,26 @@
 </head>
 
 <body>
-    <h1 id="head1">Akan Name Generator</h1>
     <div id="entry">
+        <h1 id="head1">Akan Name Generator</h1>
         <p id="para">Enter your birthdate and gender to know your Akan name</p>
         <form id="akan">
-            <div>
+            <div class="label">
                 <label for="birthdate">Birthdate:</label>
                 <input type="date" id="birthdate" name="birthdate">
             </div>
 
 
-            <div>
+            <div class="label">
                 <label for="gender">Gender</label><br>
-                <label> <input type="radio" name="gender" value="Male"> Male</label>
+            </div>
+            <div class="label">
+                <label> <input type="radio" name="gender" value="Male"> Male</label> <br>
+            </div>
+            <div class="label">
                 <label> <input type="radio" name="gender" value="Female">Female</label>
             </div>
+
 
 
             <div id="sub">
@@ -36,4 +41,5 @@
     </div>
     <script src="./src/script.js"></script>
 </body>
+
 </html>
